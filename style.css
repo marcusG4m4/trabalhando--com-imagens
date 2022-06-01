@@ -1,13 +1,19 @@
 body{
     font-size: 22px;
     font-family: sans-serif;
-    width: 700px;
+    width: 800px;
     margin: auto;
     background-image: url(assets/imagens/bg.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: repeat;
     background-position: right bottom;
+}
+h1{
+    font-size: 80px;
+    font-style: italic;
+    color: rgb(41, 36, 36);
+    text-align: center;
 }
 p{
     line-height: 1.5;
